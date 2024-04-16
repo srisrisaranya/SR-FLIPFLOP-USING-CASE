@@ -65,4 +65,5 @@ endmodule
 ![image](https://github.com/srisrisaranya/SR-FLIPFLOP-USING-CASE/assets/148516638/1a3871c7-4e99-4575-afa3-3b97330feb94)
 
 **RESULTS**
+
 Therefore the code executed successfully.
