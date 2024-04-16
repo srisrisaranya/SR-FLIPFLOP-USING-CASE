@@ -2,8 +2,10 @@
 
 **AIM:**
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
+
 **SOFTWARE REQUIRED:**
 Quartus prime
+
 **THEORY**
 SR Flip-Flop SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
 
@@ -30,8 +32,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5.For different input combinations generate the timing diagram.
 ```
 **PROGRAM**
+```
 Developed by: SARANYA .S
  RegisterNumber: 212223110044
+```
 */
 ```
 module SRFLIPFLOP(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
@@ -56,7 +60,9 @@ module SRFLIPFLOP(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level usi
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/srisrisaranya/SR-FLIPFLOP-USING-CASE/assets/148516638/1a3871c7-4e99-4575-afa3-3b97330feb94)
+
 **RESULTS**
 Therefore the code executed successfully.
